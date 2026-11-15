@@ -25,15 +25,15 @@
     "shell"
   ],
   "license": "MIT",
-  "author": "Nabheet S. Sandhu",
+  "author": "Single Barrel Labs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nabheet/opencode-rtk-plugin.git"
+    "url": "git+https://github.com/singlebarrellabs/opencode-rtk-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/nabheet/opencode-rtk-plugin/issues"
+    "url": "https://github.com/singlebarrellabs/opencode-rtk-plugin/issues"
   },
-  "homepage": "https://github.com/nabheet/opencode-rtk-plugin#readme",
+  "homepage": "https://github.com/singlebarrellabs/opencode-rtk-plugin#readme",
   "engines": {
     "node": ">=18"
   },
